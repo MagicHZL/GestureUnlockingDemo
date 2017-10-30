@@ -1,2 +1,3 @@
 # GestureUnlockingDemo
-## ¾Å¹¬¸ñÊÖÊÆ½âËø
+### ä¹å®«æ ¼æ‰‹åŠ¿è§£é”
+![mahua](gs.jpg)
